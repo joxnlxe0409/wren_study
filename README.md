@@ -1,10 +1,12 @@
 Just to learn Wren which is a scripting language and can be embedded within larger applications.
 Wren can copile cleanly as C99, C++98, or later versions.
+
 | Lesson       | Topic                         | Key Concepts                                          
 | Lesson 1   | Variables, Data Types, Output | `var`, `System.print`, string interpolation            
 | Lesson 2   | Conditionals                  | `if`, `else`, `==`, `!=`, `&&`, \`                      
 | Lesson 3   | Loops                         | `while`, `for in`, range operator (`..`)                 
 | Lesson 4  | Lists and Maps                | `.add()`, `.insert()`, `.containsKey()`, key-value pairs 
+
 | Lesson 5  | Functions                     | `fn`, arguments, return values                          
 | Lesson 6  | Classes and Constructors      | `class`, `construct`, fields, methods                    
 | Lesson 7  | Object Usage                  | multiple instances, method calls                       
