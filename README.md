@@ -1,6 +1,12 @@
 Just to learn Wren which is a scripting language and can be embedded within larger applications.
 Wren can copile cleanly as C99, C++98, or later versions.
 
+In order to actually access or test-out the codes, download the files from the website below:
+
+https://wren.io/
+
+Simply, make a directory under your C: or D: drive, grant it through terminal.
+
 | Lesson       | Topic                         | Key Concepts                 
 
 | Lesson 1   | Variables, Data Types, Output | `var`, `System.print`, string interpolation    
