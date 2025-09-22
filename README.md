@@ -25,7 +25,7 @@ Simply, make a directory under your C: or D: drive, grant it through terminal.
 
 | Lesson 8  | Static Methods & Modules      | `static`, organizing code into files, `import`  
 
-| Lesson 9  | Advanced Data Structures      | nested lists, filtering, sorting      
+| Lesson 9  | Advanced Data Structures      | nested lists, filtering    
 
 | Lesson 10 | Coroutines (Fiber)            | `Fiber`, `sleep()`, cooperative multitasking   
 
